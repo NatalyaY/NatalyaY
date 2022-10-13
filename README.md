@@ -1,15 +1,14 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
+<h1>Hi there 👋</h1>
+<div>:computer: i'm frontend developer</div>
+<div>:necktie: currently looking for a job</div>
+&nbsp;
   <div id='contacts'>
     <a href='https://t.me/n_yaksharova'><img src='https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge'></a>
     <a href='mailto:n.yaksharova18@yandex.ru'><img src='https://img.shields.io/badge/email-yellow?logo=Mail.Ru&logoColor=white&style=for-the-badge'></a>
   </div>
 </div>
-
-# Hi there 👋   
-:computer: i'm frontend developer   
-:necktie: currently looking for a job   
 
 ---
 
